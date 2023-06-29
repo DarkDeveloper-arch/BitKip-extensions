@@ -15,7 +15,7 @@ This extension will install on your browser to grab download links from browser 
 - go to your browser extension settings
 - enable developer mode
 - load unpacked
-- select the folder in extracted
+- select the folder in extracted which has manifest file
 
 ## Preview of the extension:
 
